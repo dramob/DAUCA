@@ -6,7 +6,7 @@ DAUCA is a blockchain-based platform that aims to revolutionize decentralized fi
 
 ## Project Description
 
-StackSafe combines the power of smart contracts and decentralized exchanges to enable users to invest in cryptocurrencies using the DCA strategy. Our platform automates the investment process, allowing users to contribute a fixed amount at regular intervals regardless of the current market price. This approach helps users to build a diversified portfolio over time and reduces the risk associated with timing the market. StackSafe is designed to be user-friendly, secure, and accessible to both experienced and novice investors.
+DAUCA  combines the power of smart contracts and decentralized exchanges to enable users to invest in cryptocurrencies using the DCA strategy. Our platform automates the investment process, allowing users to contribute a fixed amount at regular intervals regardless of the current market price. This approach helps users to build a diversified portfolio over time and reduces the risk associated with timing the market. StackSafe is designed to be user-friendly, secure, and accessible to both experienced and novice investors.
 
 ## Code
 
