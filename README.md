@@ -1,7 +1,5 @@
 
 # DAUCA
-
-
 ## Introduction
 
 DAUCA is a blockchain-based platform that aims to revolutionize decentralized finance (DeFi) by implementing the Dollar Cost Averaging (DCA) investment strategy. Our project provides users with a simple and automated way to invest in cryptocurrencies using DCA principles. By investing a fixed amount at regular intervals, users can mitigate the impact of market volatility and potentially achieve better long-term investment results.
