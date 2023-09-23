@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+      to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))
+    )
+    rgb(var(--background-start-rgb));
+}
+.component-title {
+  font-size: 2.5rem; /* Ajustez cette valeur pour modifier la taille des titres */
+  margin-bottom: 1rem;
+}
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bold;
+}
+.bulletPoints {
+  padding-inline-start: 0;
+  list-style-position: inside;
+}
+.horizontal-bar {
+  height: 90px; /* Épaisseur de la barre (modifiable) */
+  background-color: #363535; /* Couleur de la barre (modifiable) */
+}
+.section-with-border {
+  border: 100px solid rgb(51, 49, 49);
+  padding: 1rem;
+  margin-bottom: 0rem;
+}
+.rounded-rectangle {
+  border: 1px solid black;
+  border-radius: 10px; /* Ajustez la valeur pour obtenir l'arrondi souhaité */
+  padding: 10px; /* Ajustez le padding selon vos besoins */
+}
+
